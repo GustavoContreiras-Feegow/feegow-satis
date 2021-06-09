@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "feegow-legacy-backend/repositories": {
+            "dev-main": {
+                "name": "feegow-legacy-backend/repositories",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/GustavoContreiras-Feegow/feegow-legacy-backend.git",
+                    "reference": "2f52c73f29d7ec5d7b349e9c0f3207abec37676f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/GustavoContreiras-Feegow/feegow-legacy-backend/zipball/2f52c73f29d7ec5d7b349e9c0f3207abec37676f",
+                    "reference": "2f52c73f29d7ec5d7b349e9c0f3207abec37676f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/satis": "dev-master#2845708 as 1.0.0"
+                },
+                "time": "2021-06-09T13:41:18+00:00",
+                "type": "library",
+                "description": "Feegow Legacy Repositories",
+                "homepage": "https://github.com/GustavoContreiras-Feegow/",
+                "support": {
+                    "source": "https://github.com/GustavoContreiras-Feegow/feegow-legacy-backend/tree/main",
+                    "issues": "https://github.com/GustavoContreiras-Feegow/feegow-legacy-backend/issues"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$145505159b4bc36c8344808081c69ddd8c3c867d.json": {
+            "sha1": "145505159b4bc36c8344808081c69ddd8c3c867d"
+        }
+    },
+    "metadata-url": "/GustavoContreiras-Feegow/p2/%package%.json",
+    "available-packages": [
+        "feegow-legacy-backend/repositories"
+    ]
+}
